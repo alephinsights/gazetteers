@@ -1,7 +1,7 @@
 # Purpose
 A compilation of gazetteers for processing unstructured and semi structured text.
 
-These gazetteers are a work in progress and are subject to ongoing change, addition, deletion improvement.
+These gazetteers are a work in progress and are subject to ongoing change, addition, deletion, improvement.
 
 # Gazetteer Format
 The gazetteers are a collection of text files. Each text file represents a class of object, person, thing (generally the classification is quite loose).

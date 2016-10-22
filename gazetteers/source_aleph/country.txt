@@ -4,3 +4,20 @@ france
 germany
 spain
 mexico
+Afghanistan
+Egypt
+Iran
+Turkey
+Iraq
+Saudi Arabia
+Yemen
+Syria
+United Arab Emirates, UAE
+Israel
+Jordan
+Palestine
+Lebanon
+Oman
+Kuwait
+Qatar
+Bahrain
