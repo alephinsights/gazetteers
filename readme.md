@@ -13,7 +13,7 @@ The format of these text files are designed to be readily ingested by the [Balle
 The gazetteers are built from a range of sources. See below.
 
 # Builders
-We have included the code (usually python notebooks, but some .xls files) which we are using to build these files.
+We have included the code (usually python notebooks, but some .xls files) which we are using to build and cleanse data to produce these files.
 
 # Gazetteers
 Gazetteers are grouped in folders which indicate their source. The file name preserves part of the original URL. In many cases the licence of the data is inherited from the source. These are described below.
