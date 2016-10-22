@@ -19,4 +19,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
+# Jupyter notebook stuff
+.ipynb_checkpoints
