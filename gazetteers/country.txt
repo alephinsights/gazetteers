@@ -1,0 +1,6 @@
+usa, united states, united states of america
+uk, united kingdom, united kingdom of great britain and northern ireland
+france
+germany
+spain
+mexico

@@ -1,0 +1,157 @@
+﻿assault rifle, rifle
+AAI SBR
+AAI XM70
+AB-3
+Adaptive Combat Rifle
+ADS amphibious rifle
+AEK-971
+AG-043
+AK-9
+AK-47
+AKM
+AK-74
+AK-101
+AK-102
+AK-103
+AK-104
+AK-105
+AK-107
+AK-108
+AK-12
+Ak 5
+AK-63
+AMD-65
+AMP-69
+AN-94
+AO-27
+AO-31
+AO-35
+AO-38
+AO-62
+APS-95
+APS underwater rifle
+ArmaLite AR-18
+ASM-DT amphibious rifle
+Barrett REC7
+Beretta AR70/90
+Beretta ARX 160
+Beretta Rx4 Storm
+BSA 28P
+Bullpup Multirole Combat Rifle, BMCR
+Chropi rifle
+CEAM Modèle 1950
+CETME Model L
+Close Quarters Battle Receiver
+Colt Canada C7 rifle
+Colt CM901
+ČZ 522
+CZ-805 BREN
+ČZ 2000
+Daewoo K2
+Desarrollos Industriales Casanave, SC-2005
+Dlugov assault rifle
+EM-2 rifle
+Excalibur rifle
+EMER K1
+FAMAS
+FARA 83
+FN CAL
+FN F2000
+FN FNC
+FN SCAR
+Franchi mod. 641
+FX-05 Xiuhcoatl
+Galil ACE
+Grad AR
+Grossfuss Sturmgewehr
+Heckler & Koch G11, HK G11
+Heckler & Koch G36, HK G36
+Heckler & Koch G41, HK 41
+Heckler & Koch HK33, HK33
+Heckler & Koch HK36, HK36
+Heckler & Koch HK416, HK416
+Heckler & Koch XM8, HK XM8
+Howa Type 89
+IMBEL MD2
+IMBEL IA2
+IMI Galil
+IMI Tavor TAR-21
+INSAS rifle
+Interdynamics MKS
+ITM Model 3
+Kbk wz. 1988 Tantal
+Kbkg wz. 1960
+Kbs wz. 1996 Beryl
+L64/65
+LSAT rifle
+L85
+Leader Dynamics Series T2 MK5
+LR-300
+M16 rifle
+M4 carbine, M4 assault rifle
+MKEK MPT
+MSBS Radon
+Multi Caliber Individual Weapon System
+Nesterov assault rifle
+Norinco CQ
+OTs-12 assault rifle
+Pindad SS1
+Pindad SS2
+Pistol Mitralieră
+Pușcă Automată
+PVAR Rifle
+QBZ-95
+QBZ-97
+QBZ-03
+Remington GPC
+Rk 62
+Rk 95 TP
+Robinson Armament XCR
+Rung Paisarn RPS-001
+S&T Daewoo K11
+Sa vz. 58
+SAR-80
+SAR-21
+SIG MCX
+SIG SG 516
+SIG SG 530
+SIG SG 540
+SIG SG 550
+SOCIMI AR-831
+Special Operations Assault Rifle
+SR-3 Vikhr
+SR-47
+SR 88
+SS09
+Sterling SAR-87
+Steyr AUG
+Stoner 63
+StG 44
+StG 45(M)
+T65 assault rifle
+T86 assault rifle
+T91 assault rifle
+Trichy assault rifle
+T97 assault rifle
+TKB-072
+TKB-517
+Truvelo Raptor
+Type 56 assault rifle
+Type 58 assault rifle
+Type 63 assault rifle
+Type 81 assault rifle
+Type 86S assault rifle
+VAHAN
+Valmet M76
+Valmet M82
+Vektor CR-21
+Vektor R4
+Vepr
+VHS Assault Rifle
+VHS-2
+Wieger StG-940, StG-940
+Wimmersperg Spz-kr, Spz-kr
+XT-97
+Zastava M21
+Zastava M70
+Zastava M90

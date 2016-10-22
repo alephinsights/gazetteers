@@ -1,0 +1,161 @@
+﻿7.62 ITKK 31 VKT 
+Breda M38
+Breda-SAFAT machine gun
+CMG-1
+Darne machine gun
+Fokker-Leimberger
+KPB-12.7
+Ksp m/42 machine gun
+M1895 Colt–Browning machine gun
+M1926 machine gun
+MAC 1931
+MAC 1934
+MG 30
+Perino Model 1908
+Prado machine gun
+Vickers .50 machine gun
+XM133 Minigun
+Ares Shrike 5.56
+AUG HBAR
+Beretta AS70/90
+Besal
+Breda 30
+Bren light machine gun
+Browning wz.1928
+CETME Ameli
+Charlton Automatic Rifle
+Chauchat
+ČZW-762
+Daewoo K3
+Degtyaryov machine gun, Degtyaryov 
+Dror light machine gun, Dror 
+EMER-K1 LMG
+EPK (Pyrkal) Machine gun
+Fittipaldi machine gun
+FM 24/29
+FN Minimi
+Furrer M25
+Heckler & Koch MG4
+Hotchkiss M1909
+Benét–Mercié
+Hotchkiss M1922 machine gun
+Huot Automatic Rifle
+IMI Negev
+IP-2
+INSAS LMG
+Kg m/40 light machine gun
+Kk 62
+L86 LSW
+Lahti-Saloranta M/26
+Lewis M1914
+LSAT light machine gun
+M249 light machine gun
+M1918 Browning Automatic Rifle
+M1922
+M1941 Johnson machine gun
+Madsen machine gun
+Mark 48 machine gun
+Maxim-Tokarev
+McCrudden light machine rifle
+Mendoza C-1934
+Mendoza RM2
+Nikonov
+QBB-95
+QJY-88
+RPK
+Sterling 7.62
+St. Étienne Mle 1907
+Stoner 63/63A Light Machine Gun
+Stoner LMG
+Taden gun
+Type 11 light machine gun
+Type 81 squad machine gun
+Type 96 light machine gun
+Type 97 light machine gun
+Type 99 light machine gun
+Ultimax 100
+Vickers-Berthier
+Vickers K (VGO)
+VMG-27
+Weibel M/1932
+Zastava M72
+Zastava M77
+ZB vz. 26
+ZB vz. 30
+M1919 Browning machine gun
+Besa machine gun
+DS-39
+Fiat–Revelli Modello 1914
+Hotchkiss M1914 machine gun
+Skoda M1909
+Schwarzlose MG M.07/12
+SG-43 Goryunov
+Vickers machine gun
+ZB-53
+Berezin UB
+Breda M37
+CIS 50MG
+Ckm wz.30
+DShK
+Fiat–Revelli Modello 1935
+FN BRG-15
+GAU-19
+Hotchkiss M1929 machine gun
+Kord machine gun
+KPV heavy machine gun
+M2 Browning machine gun
+M85 machine gun
+M1917 Browning
+M1921 Browning
+MAC-58
+Maxim gun
+MG 08
+MG 11
+MG 18 TuF
+MG 131
+NSV machine gun
+PM M1910
+Rheinmetall RMG.50
+Rolls-Royce Experimental Machine Gun
+Type 1 heavy machine gun
+Type 3 heavy machine gun
+Type 77 Heavy Machine Gun
+Type 90 machine gun
+Type 92 heavy machine gun
+Salvator-Dormus M1893
+W85 Heavy Machine Gun
+XM312
+XM806
+Zastava M02 Coyote
+Zastava M87
+ZB-50
+AA-52
+AEK-999
+FN MAG
+Heckler & Koch HK21
+Heckler & Koch HK121
+M60 machine gun
+M240 machine gun
+Madsen-Saetter
+Mekanika Uirapuru
+MG 34
+MG 39 Rh
+MG 42
+MG 51
+Pecheneg machine gun
+PK machine gun
+Rheinmetall MG 3
+Rheinmetall MG 60
+SIG MG 710-3
+S&T Daewoo K12
+Sumitomo Type 62
+T24 machine gun
+Type 67 machine gun
+Type 80 machine gun
+UKM-2000
+Uk vz. 59
+Vektor SS-77
+Zastava M84
+Colt Automatic Rifle
+M27 IAR
+RPD

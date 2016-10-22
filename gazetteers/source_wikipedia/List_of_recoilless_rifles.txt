@@ -1,0 +1,24 @@
+55 S 55
+95 S 58-61
+ALAC
+AT4
+B-10
+B-11
+Breda Folgore
+LG 40
+LG 40
+LG 42
+L6 Wombat
+M3 Carl Gustav
+M18 Recoilless Rifle
+M20
+M28/M29 Nuclear Recoilless Rifle, M28 Nuclear Recoilless Rifle, M29 Nuclear Recoilless Rifle
+M40
+M-60
+M67
+Miniman
+Pvpj 1110
+RCL 3.45 inch Gun
+SPG-9
+Jagdfaust
+Rheinmetall RMK30

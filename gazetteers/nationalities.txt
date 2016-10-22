@@ -1,0 +1,83 @@
+Europeans, European
+Yazidis, Yazidi
+Sunni Kurds
+Sunni
+Shia
+Arab, Arabic
+Palistinian
+Israilie
+Afghan
+Argentine
+Argentinian
+Australian
+Belgian
+Bolivian
+Brazilian
+Cambodian
+Cameroonian
+Canadian
+Chilean
+Chinese
+Colombian
+Costa Rican
+Cuban
+Danish (Dane)
+Dominican
+Ecuadorian
+Egyptian
+Salvador
+English
+Estonian
+Ethiopian
+Finnish
+French
+German
+Ghanaian
+Greek	Greek
+Guatemalan
+Haitian
+Honduran
+Indonesian
+Iranian,	Persian
+Irish
+Israeli
+Italian
+Japanese
+Jordanian
+Kenyan
+Laotian
+Latvian
+Lithuanian
+Malaysian	Malay
+Mexican
+Moroccan
+Dutch
+New Zealander
+Nicaraguan
+Norwegian
+Panamanian
+Paraguayan
+Peruvian
+Filipino, Tagalog
+Polish
+Portuguese
+Puerto Rican
+Romanian
+Russian
+Arabia
+Scottish
+Korea	Korean
+Spanish
+Swedish
+Swiss	German
+Taiwanese
+Tajik
+Thai
+Turkish
+Ukrainian
+British
+American
+Uruguayan
+Venezuelan
+Vietnamese
+Welsh

@@ -1,0 +1,1341 @@
+1V152
+2S1 Gvozdika, 2S1
+2S3 Akatsiya, 2S3
+2S4 Tyulpan, 2S4
+2S5 Giatsint-S, 2S5
+2S7 Pion, 2S7
+2S9 Anona, 2S9
+2S14 Zhalo-S, 2S14
+2S19 Msta, 2S19
+2S23 Nona-SVK, 2S23
+2S30 Iset, 2S30
+2S31 Vena, 2S31
+40.10
+4K 4FA
+4K 7FA
+9A51 Prima, 9A51
+9P117
+9P157
+9P162
+9S482
+A4 AVL
+A43
+A41
+A-531
+AAV-7
+AAVC-7
+AAVP-7
+AAVR-7
+M1 Abrams, M1 Abrams
+ACEC Cobra, ACEC
+Achzarit
+ACTL
+ACV 300
+ACV-S
+AHSVS
+AIFV
+Al-Fao
+Al-Khalid
+Al-Zarar
+BMS-1 Alacran
+Alvis
+AM-IV
+AML 20
+AML 60
+AML 90
+AML 245
+Amtrac
+AMV
+AMX-10P
+AMX-10RC
+AMX-13
+AMX
+AMX
+AMX
+AMX-56
+AMX-VCI
+APRA-21
+APRA-40
+APS-3
+C1 Ariete
+Arjun
+Arma
+M9 ACE
+XM8 AGS
+AIFV
+ATS
+AVLB
+ASCOD
+ASLAV
+Asad Babil
+ASU-57
+ASU-85
+AT105
+AT-P
+Avenger, HMMWV
+AVGP Cougar
+AVGP Grizzly
+AVGP Husky
+B1 Centauro
+B-531
+Bateleur
+BDX
+Bison
+BJ2020
+BJ2022
+BJ212
+Black Eagle
+Black Knight
+Black Panther
+BLG-60
+BLG-67
+Blitz, C15 tank
+BLR
+BM-11
+BM-21, BM-21 Grad
+BMD-1
+BMD-2
+BMD-3
+BMM-2
+BMM-3
+BMM-80
+BMP-1
+BMP-2
+BMP-3
+BMP-23
+BMP-30
+BMR
+BMR-600, Pegaso 3560
+BMS-1
+Boragh, Type 86
+BOV
+Bradley, M2 Bradley, M3 Bradley
+BRAVIA Commando Mk III, BRAVIA Mk III
+BRDM-1
+BRDM-2
+BRDM-3
+BREM-2
+BREM-L
+BRM-23
+BTR-3
+BTR-4
+BTR-40, M1956, M1957, M1974/4
+BTR-50
+BTR-60
+BTR-70
+BTR-80
+BTR-90
+BTR-94
+BTR-140
+BTR-152
+BTR-T
+BTS-1
+BTS-2
+BTS-3
+BTS-4
+Buffalo APC
+Buffalo mine
+Buffalo
+Buffel
+Bushmaster
+Bushmaster
+Bv 202
+Bv 206
+BVP-1
+BVP-2
+BVP M-80
+BVS10 Viking
+BVPzV Svatava, BVPzV
+BWP-1
+BWP-40
+BWP-2000
+C1 Ariete
+C13 Dardo
+CA10
+CA30
+CA1091
+Camillino, VCC-2
+Capraia, R3 Capraia
+Carro Armato
+Carro Leggero
+Carro Pesante
+Carro Veloce, CV-29, CV-33, CV-35
+Cascavel, EE-9
+Casspir
+Catapult
+A24 Cavalier, Cruiser Tank mark VII
+Cazador
+Centauro, B1 Centauro
+Centurion, A41, FV4001
+M24 Chaffee, M24 Chaffee
+Chaimite
+A30 Cruiser Tank Mark VIII
+Challenger 1
+Challenger 2
+Chaparral, M48 Chaparral
+Char Léger Hotchkiss H-35, Hotchkiss H35
+Char Mitrailleuse Renault FT-31, Renault FT-31
+RG-31
+Chi-Ha, Type 97 Chi-Ha
+Chi-He, Type 1 Chi-He
+Chi-Nu, Type 3 Chi-Nu
+Chieftain, FV4201
+Ch'onma-ho
+CM-21
+Cobra, ACEC Cobra
+Combat Engineer Vehicle, M728 CEV
+Comet
+BRAVIA Commando Mk III
+Commando
+Commando Scout, Cadillac Gage Commando Scout
+Condor
+Conqueror,  FV214 Conqueror
+AVGP Cougar
+Covenater, A13 Cruiser Tank Mark V
+Coyote
+CQ261
+Cromwell, A27 Cruiser Tank Mark VIII
+Crusader, A15 Cruiser Tank Mark VI
+CV-29, Carden Loyd tankette,  Carro Veloce
+CV 90
+CV 9025
+CV 9030
+CV 9035
+CV 9040
+CV 9056
+CV 90105
+CV 90120
+D421
+Dardo, VCC-80
+DAF ya4440/ya4442
+DAF ya328
+DAF ya126
+DANA
+Dozor-B
+DP-90
+DPM convoy
+Dragoon 300
+DTP-90
+Duster
+Dzik Armored Car
+EJDER
+Eagle tank, Main Battle Tank Mk 3
+EBR
+EE-3 Jararaca
+EE-9 Cascavel
+EE-11 Urutu
+EE-17 Sucuri
+EE-18 Sucuri
+EE-T1 Osório
+EE-T2 Osório
+EE-T4 Ogum
+EIFV
+Eland
+EQ1093
+EQ1108
+EQ1141
+EQ2050
+EQ2058
+EQ2061
+EQ2081
+EQ2082
+EQ2100
+EQ2102
+ERC-1
+ERC-2
+ERC-20
+ERC-60
+ERC-90
+ERC-90
+ERC-90
+M1078 FMTV
+Ferret FV711
+Fiat 6614
+Fiat 6616
+Field Artillery, M992 FAASV
+Fire Support, M981 FSV
+Fabrique Nationale, AS 24
+Ford FT-B
+Fox armoured, CVR (W), CVR(W)
+Freccia
+Fuchs, Transportpanzer 1
+FUG
+FV101, Scorpion
+FV102, Striker
+FV103, Spartan
+FV104, Samaritan
+FV105, Sultan
+FV106, Samson
+FV107, Scimitar
+FV120, Spartan
+FV180
+FV214, Conqueror
+FV219
+FV221
+FV222
+FV400
+FV401
+FV402
+FV420
+FV421
+FV422
+FV423
+FV424
+FV425
+FV426
+FV431
+FV432
+FV433
+FV434
+FV435
+FV436
+FV437{Pathfinder
+FV438
+FV439
+FV510
+FV511
+FV512
+FV513
+FV514
+FV515
+FV601
+FV603
+FV604
+FV610
+FV611
+FV621
+FV622
+FV623
+FV624
+FV711
+FV721
+FV1600
+FV1601
+FV1604
+FV1606
+FV1609
+FV1611
+FV1612
+FV1801A
+FV1620
+FV3801
+FV3802
+FV3803
+FV3804
+FV3805
+FV3806
+FV4001
+FV4002
+FV4003
+FV4004
+FV4005
+FV4006
+FV4007
+FV4008
+FV4009
+FV4010
+FV4011
+FV4012
+FV4013
+FV4014
+FV4015
+FV4016
+FV4017
+FV4018
+FV4019
+FV4030
+FV4034
+FV4201
+FV4202
+FV4203
+FV4204
+FV4205
+FV4207
+FV4211
+FV4333
+FV4401
+FV4501
+FV4601
+FV11021
+FV18001
+FV18003
+FV18004
+FV18005
+FV18006
+FV18007
+FV18008
+FV18009
+FV18044
+FV18067
+Gadfly, SA-11
+Gainful, SA-6
+Gauntlet, SA-15
+Gecko, SA-8
+Ganef, SA-4
+Gaskin, SA-9
+GAZ 46
+GAZ-61
+GAZ-63
+GAZ-66
+GAZ-69, UAZ-69
+GAZ-5903
+GAZ-59031
+GAZ-59032
+GAZ-59033
+GAZ-59034
+GAZ-59039
+GAZ-3937 Vodnik
+GAZ-39344 SIAM
+GCT
+Golan
+Gopher, SA-13
+Grad, BM-21
+Grenadier
+Grizzly
+Grizzly APC
+GT-M
+GT-MU
+Guardian, M117
+G-Wagen
+HS.30, Type 95 Ha-Go
+Ha-Go
+Heavy Expanded Mobility Ammunition, M983 HEMAT
+Heavy Expanded Mobility Tactical, M977 HEMTT
+Hellcat, M18 Hellcat
+Humvee, M998 HMMWV
+High Mobility Artillery Rocket, HIMARS
+HLVW
+Ho-Ro, Type 38 Ho-Ro
+Hotspur armoured
+Hotspur Hussar
+Humber Armoured
+Humber Light
+Humber
+Husky
+HWK 11
+HY472, HY4260, Type 82
+HY473
+HY2150
+HY4160
+HY4191
+HY4260
+HY4310
+HY4330
+HY4390
+HY4320
+HY5270
+HY5300
+IFVL
+Ikv 91
+Iltis, Type 183
+MXT-MV
+Improved TOW, M901 ITV
+IMR
+IMR-2
+IS-2
+IS-3
+IT-122
+IWT
+M38 Jackson
+Jagdpanzer Jaguar
+Jagdpanzer Jaguar 2
+Jagdpanzer Kanone tank
+Jagdpanzer Rakete
+Jaguar tank
+Jararaca, EE-3 Jararaca
+JN252
+JVTB-55A
+Jakkals
+K1, Type 88
+K1Sh1
+K2
+K200
+K216
+K242
+K263
+K277
+K281
+K288
+Fahd
+KAFIV
+KAFIV
+KAM-1
+KAM-2
+Ke-Go, Type 95 Ha-Go
+Kentauras
+KIFV
+kleiner Panzerbefehlwagen
+Korean Infantry Fighting Vehicle
+KrAZ
+Kübelwagen, Type 83, Type 86, Type 87
+Kurierwagen, Type 181, Type 182
+Kürassier
+L-33
+Land Rover Wolf
+Landwirtschäftlicher Schlepper
+LAV-25
+LAV III
+LAV-300
+LAV-600
+Lazar BVT-SR-8808-MRAP
+Leclerc
+Leonidas-2
+Leopard 1
+Leopard 2
+Leopard security vehicle
+Liberty
+Lion of Babylon
+LMV Lince
+Locust
+Logistic Vehicle System
+LOV-ABK
+LOV-ED
+LOV-IZV
+LOV-OP
+LOV-RAK
+LOV-UP
+LOV-Z
+LSVW
+LT-105
+LT vz. 35
+LT vz. 38
+Luchs
+LVT-5
+LVTAA-1
+LVTC-5
+LVTE-5
+LVTH-5
+LVTP-5
+LVTR-5
+LVT-7
+LVTC-7
+LVTP-7
+LVTR-7
+Lynx
+M1 Abrams
+M1 Isherman
+M2 Bradley
+M3 Isherman
+M3 Bradley
+M3
+M4 armoured
+M6 Linebacker
+M5
+M6 Tractor
+M6
+M7 Bradley
+M8 Armored
+M8 Tractor
+M8 Bulldozer
+M9 ACE
+M9 Bulldozer
+M11
+M31
+M34
+M35
+M36
+M36
+M37
+M38
+M39
+M39
+M40
+M41
+M41
+M41
+M42
+M42
+M43
+M44
+M44
+M45
+M45
+M46
+M46
+M47
+M47
+M48
+M48
+M48
+M49
+M49
+M50
+M50
+M50
+M50
+M51
+M51
+M51
+M52
+M52
+M53
+M-53
+M54
+M54
+M-55
+M55
+M56
+M56
+M57
+M58
+M59
+M59
+M59
+M60
+M-60
+M60
+M61
+M62
+M63
+M64
+M66
+M67
+M70
+M74
+M75
+M76
+M-77
+M-80
+M-84
+M84
+M85
+M88
+M91
+M-94
+M95
+M93
+M102
+M103
+M104
+M106
+M107
+M108
+M108
+M108
+M109
+M109
+M110
+M113
+M114
+M116
+M123
+M124
+M125
+M125
+M132
+M132
+M133
+M135
+M139
+M139
+M147
+M151
+M152
+M162
+M163
+M170
+M185
+M195
+M201
+M211
+M215
+M216
+M217
+M220
+M221
+M222
+M-240
+M-242
+M246
+M249
+M250
+M268
+M270
+M274
+M275
+M283
+M289
+M291
+M292
+M328
+M342
+M348
+M382
+M386
+M422
+M462
+M474
+M501
+M512
+M520
+M521
+M523
+M543
+M546
+M548
+M551
+M553
+M559
+M561
+M577
+M578
+M579
+M-590
+M601
+M602
+M606
+M615
+M621
+M622
+M623
+M624
+M656
+M667
+M688
+M696
+M706
+M715
+M718
+M724
+M725
+M726
+M727
+M728
+M730
+M732
+M734
+M741
+M748
+M751
+M752
+M756
+M757
+M763
+M764
+M791
+M792
+M806
+M809
+M810
+M811
+M812
+M813
+M814
+M815
+M816
+M817
+M818
+M819
+M820
+M821
+M825
+M877
+M880
+M881
+M882
+M883
+M884
+M885
+M886
+M887
+M888
+M890
+M891
+M892
+M893
+M901
+M915
+M916
+M917
+M918
+M919
+M920
+M923
+M924
+M925
+M926
+M927
+M928
+M929
+M930
+M931
+M932
+M933
+M934
+M935
+M936
+M939
+M940
+M941
+M944
+M945
+M966
+M973
+M977
+M978
+M-980
+M981
+M983
+M984
+M985
+M992
+M993
+M996
+M997
+M998
+M1001
+M1002
+M1008
+M1009
+M1010
+M1015
+M1025
+M1026
+M1028
+M1031
+M1035
+M1036
+M1037
+M1038
+M1042
+M1043
+M1044
+M1045
+M1046
+M1059
+M1064
+M1068
+M1069
+M1070
+M1070
+M1078
+M1097
+M1097
+M1108
+M1109
+M1113
+M1114
+M1115
+M1116
+M117
+M1120
+M1121
+M1123
+M1124
+M1151
+M1152
+M1917
+M1946
+M1947
+M1949
+M1951
+M1953
+M1956
+M1957
+M1958
+M1959
+M1960
+M1964
+M1965
+M1968
+M1970
+M1970
+M1971
+M1972
+M1973
+M1974
+M1975
+M1975
+M1975/4
+M1977
+M1977
+M1978
+M1979
+M1978
+M1981
+M1980/1
+M1980/2
+M1981/3
+M1984
+M1984
+M1984
+M1984
+M1985
+M1985
+M1985
+M1986
+M1986
+M1986
+M1986
+M1988
+M1990
+M-2001
+MAC-1
+MAC-2
+Mae West
+Magach
+Majnoon
+Mamba mine
+MAR 240
+MAR 290
+Marauder
+Marder (IFV)
+Mark VIII
+Matador armoured
+Maverick internal
+MAZ-543
+MB-3
+Mbombe
+MBP
+MBT-70
+MBT-80
+MBT-2000
+MCV-80
+MDT David
+Medium
+Merkava
+MEX-1
+Mk 48
+Mk 61
+Mk F3
+MLI-84
+MLRS
+MLVM
+MLVW
+Mobile Gun
+Mowag Grenadier
+Mowag Piranha
+Mowag Roland
+Mowag Shark
+Mowag SPY
+Mowag Tornado
+MP-31
+MPAEJ
+MPFJ
+MRAP
+MT-55
+MTK-2
+MT-LB
+MT-LBu
+MTP-3
+MTU-20
+MTU-72
+MTVC
+MTVF
+MTVL
+MTVR
+MU-90
+Mungo
+MVJ
+NGV-1
+NJ2045
+NJ2046
+NM-142
+NM-142
+NVH-1
+Nyala
+NZLAV
+OF-40
+OF-120
+Ogum
+Olifant Mk, Olifant tank
+Orca
+Osorio
+OT-54
+OT-55
+OT-62
+OT-64
+OT-65
+OT-90
+P4 Truck
+P26/40
+P-90
+P-240
+Paladin
+Pandur I
+Pandur II
+Pangu
+Panther
+Panther CLV
+Patria AMV
+Patton
+Pbv 301
+Pbv 302
+Pbv 401
+Pegaso 3560
+Petit Véhicule
+Piranha
+Pizarro
+Plasan Sand
+PLZ05
+PLZ45
+PLZ89
+PMCz-90
+Poprad
+PRP-3
+PRP-4
+PSZH-IV
+PT-76
+PT-91
+PTL02
+PU-12M
+Pulse 4×4
+Puma 4×4
+Puma 4×4
+PVP armoured
+PvBv 551
+PvBv 2062
+PvBv 2063
+PvBv 551
+Pz 55
+Pz 57
+Pz 58
+Pz 61
+Pz 68
+Pz 87
+PZA
+QL550
+R-2
+R3 Capraia
+R-149
+R-165
+R421
+R-439
+R914
+RAM 2000
+Ratel infantry
+RBY
+RGV-9
+RG-12
+RG-19
+RG-31
+RG-32
+RG-33
+RKhM-4
+RM-70
+RN-94
+Rooikat
+Rosomak
+RPX 90
+RPX 3000
+VPX 5000
+RPX 6000
+S52
+S53
+S54
+S55
+S600
+Sabre tank, CVR(T)
+Sagaie
+Sakr-18
+Saladin
+Samaritan
+SAMIL 20
+SAMIL 50
+SAMIL 100
+FV106 Samson
+Sand Cat
+FV603 Saracen
+Sarath
+Saur
+AT105 Saxon
+Schützenpanzer
+Schwimmwagen, Type 128, Type 166
+FV107 Scimitar
+FV101 Scorpion
+RG-32
+SdKfz 101
+SdKfz 265
+Sea Serpent
+SFQ2040 LieYing
+SH1
+SH2
+Shark, MOWAG Shark
+Sheridan, M551 Sheridan
+Sherman, M4 Medium tank
+Shilka, ZSU-23-4
+ShM-120
+Shoet
+SIBMAS
+Simba
+SK-105
+Skeleton
+Snow
+SKOT
+SKP-5
+Spahpanzer
+FV103 Spartan
+SPG-12
+SPR-2
+SPW 70, BTR-70
+SPY (designation
+Stallion
+Stingray
+Storm vehicle, M-242, M-240
+Stormer, FV4333 Stormer
+FV102 Striker
+Stridsvagn 74
+Stridsvagn 81
+Stridsvagn 101
+Stridsvagn 102
+Stridsvagn 103
+Stridsvagn 104
+Stridsvagn 121
+Stridsvagn 122
+SU 60
+SU-100
+SV 60
+SVO
+SX 60
+SX250
+SX2110
+SX2150
+SX2153
+SX2190
+SX2270
+SX2300
+SX4240
+SX4260
+T-10
+T-54
+T-55
+T-62
+T-64
+T-72
+T-80
+T-84
+T-90
+T-95
+T-122
+TAB-63
+TAB-71
+TAB-72
+TAB-73
+TAB-77
+TABC-79
+TAB RN-94 6×6
+TAB Saur 8×8
+TAM, Thyssen Henschel TH 301
+TAS5130
+TAS5180
+TAS5270
+TAS5380
+TAS5380
+TAS5382
+TAS5450
+TAS5501/5530
+TAS5570
+TAS5690
+TER-800
+TH-200
+TH 301
+Tamoio, MB-3 Tamoio
+TH 400 6×6
+TH 439 armoured
+TH 800 8×8
+Kurierwagen
+Ti-67
+Tiger tank, Panzer VI
+TILOS VTL
+Timoney
+Tiuna
+Tipo 6634
+TM 125
+TM 170
+TM-800
+TO-55
+TOMCAR
+Tornado, MOWAG Tornado
+Toscan tank
+TPK
+TR-77
+TR-85
+TR-125
+TR-580
+Transportpaneer
+Trekker
+Tunguska-M1
+Tur
+Type 02 6×6
+Type 30 main
+Type 54 self-propelled
+Type 55 4×4
+Type 56 6×6
+Type 59 main
+Type 60 tank
+Type 60 tractor
+Type 60 armoured
+Type 61 main
+Type 62 light
+Type 63 SPAA
+Type 63 amphibious
+Type 63 armoured
+Type 64 light
+Type 67 bridging
+Type 69 main
+Type 70 self-propelled
+Type 70 self-propelled
+Type 70 armoured
+Type 72 main
+Type 73 armoured
+Type 73 armoured
+Type 74 main
+Type 77 amphibious
+Type 77 tractor
+Type 78 armoured
+Type 79 main
+Type 79 armoured
+Type 80 main
+Type 80 SPAA
+Type 81 6×6
+Type 82 self-propelled
+Type 82 Bulldozer
+Type 82 6×6
+Type 83 self-propelled
+Type 84 bridging
+Type 85 main
+Type 86 infantry
+Type 87 self-propelled
+Type 87 ARV
+Type 87 6×6
+Type 88 K1
+Type 88 self-propelled
+Type 88 main
+Type 88 IFV
+Type 89 self-propelled
+Type 89 IFV
+Type 89 armoured
+Type 90 main
+Type 90 main
+Type 90 armoured
+Type 91 AVLB
+Type 92 6×6
+Type 93 6×6
+Type 93 armoured
+Type 94 armoured
+Type 96 main
+Type 97 amphibious
+Type 98 main
+Type 99 main
+Type 99 armoured
+Type 181 Kurierwagen
+Type 182 Trekker
+Type 183 Iltis
+Type 653 armoured
+UAZ-69
+UAZ-469
+UAZ-3151
+Ulan, ASCOD
+Ultra
+Ultra
+UR-416
+Ural-4320
+Urutu, EE-11
+V3 Praga
+V41
+V-100
+V-150
+V-200
+V-300
+V-400
+V-500
+V-600
+V-600
+V-700
+V-800
+V-900
+V-1000
+Valkiri
+VATT
+VEC-M1
+VBC-90
+VBL
+VBM
+VCA
+VCC-1
+VCC-2
+VCC-80
+VCDA
+VCDT
+VCLC
+VCMun
+VCOAV
+VCPC
+VCR
+VCR 2
+VCREC
+VCRT
+VCTan
+VCTM
+VCTP
+VCZ
+VIU-55
+VLA WPK
+VLA WPK
+VLA WPK
+VLRA TPK
+VLRA TPK
+VLRB
+VLTT
+VM
+VP command
+VPV crane
+VPX 5000
+VT-55
+VTT-323
+Walker Bulldog, M41 Walker Bulldog
+Warrior, FV510
+Water
+Wer’wolf MKII
+Wiesel
+WJ94
+WR-40
+WS2050
+WS2300
+WS2400
+WS2500
+WS2900
+WS51200
+WZ91
+WZ120
+WZ123
+WZ302
+WZ501
+WZ503
+WZ504
+WZ505
+WZ506, ZLC2000
+WZ506
+WZ523, ZSL93, Type 93, M1984
+WZ550
+WZ551
+WZ554
+WZ653
+WZ701
+WZ731
+WZ750
+WZ751
+WZ752
+WZ901
+WZT-1
+WZT-2
+WZT-3
+WZT-3M
+X1A
+XA-180
+XC2030
+XJ92
+YP-408
+YPR-765
+YPR-806
+YW302
+YW303, Type 70
+YW304
+YW307
+YW309
+YW381
+YW531
+YW534
+YW701
+YW721
+YW750
