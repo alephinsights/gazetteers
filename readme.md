@@ -1,12 +1,17 @@
 # Purpose
-We are in the process of compiling
+A compilation of gazetteers for processing unstructured and semi stuctured text.
 
 # Gazetteer Format
+The gazetteers are a collection of text files. Each text file represents a class of object, person, thing (generally the classification is quite loose).
+Each line in a file represents a type of thing, and synonyms are represented on these lines separated with commas `,`
 
+The format of these text files are designed to be readily ingested by the [Balleen](https://github.com/dstl/baleen) Entity Extraction Text Processor. For more information see the related documentation.
 
 # Sources
+The gazetteers are built from a range of sources. See below.
 
 # Builders
+We have included the code (usually python, but some .xls files) which we are using to build these files.
 
 # Gazetteers
 Gazetteers are grouped in folders which indicate their source. The file name preserves part of the original URL. In many cases the licence of the data is in herited from the source. These are described below.
@@ -17,6 +22,6 @@ Gazetteers are grouped in folders which indicate their source. The file name pre
 | Wikipedia | [./gazetteers/source_wikipedia](./gazetteers/source_wikipedia) | https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License |
 
 # Licence
-Make sure you respect the licences relating to the gazeteers which come from specific sources.
+Make sure you respect the licences relating to the gazetteers which come from specific sources.
 
-The Aleph Insights produced gazeteers are provided under the [CC BY-SA licence](./licences/by-sa.markdown).
+The Aleph Insights produced gazetteers are provided under the [CC BY-SA licence](./licences/by-sa.markdown).
