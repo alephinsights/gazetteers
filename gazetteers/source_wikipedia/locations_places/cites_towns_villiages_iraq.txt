@@ -1,4 +1,3 @@
-Link
 Ad-Dawr
 Afak
 Al-Awja
@@ -46,21 +45,3 @@ Tikrit
 Umm Qasr
 Zakho
 Zubayr
-Baghdad
-Basra
-Link
-Babylon
-Ctesiphon
-Al-Mada'in
-Eridu
-Hatra
-Kish
-Lagash
-Nineveh
-Nippur
-Nuzi
-Sumer
-Tell Ubaid
-Ur
-Uruk
-Samarra
