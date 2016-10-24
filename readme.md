@@ -23,7 +23,8 @@ Gazetteers are grouped in folders which indicate their source. The file name pre
 | source | folder | licence | description |
 |---|---|---|---|
 | Aleph Insights | [./gazetteers/source_aleph](./gazeteers/source_aleph) | [CC BY-SA licence](./licences/by-sa.markdown) | Produced by us, often manually. |
-| Wikipedia | [./gazetteers/source_wikipedia](./gazetteers/source_wikipedia) | [CC BY-SA licence](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) | Scraped or manually pulled from various wikipedia pages. The file name preserves the page name, so you can trace the source. Last capture - 20 Oct 2016 |
+| Wikipedia | [./gazetteers/source_wikipedia](./gazetteers/source_wikipedia) | [CC BY-SA licence](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) | Scraped or manually pulled from various wikipedia pages. The file name preserves the page name, so you can trace the source. <br><br>Last capture - 20 Oct 2016 |
+| GDELT | [./gazetteers/source_gdelt](./gazetteers/source_gdelt) | [GDELT BY](http://gdeltproject.org/about.html#termsofuse) | GDELT terms and taxonomies for organisations etc <br><br> [Edited text files](http://gdeltproject.org/data.html#documentation)<br><br> Last capture - 24 Oct 2016 |
 
 # Licence
 Make sure you respect the specific licences relating to the gazetteers which come from specific sources. See the table above.
