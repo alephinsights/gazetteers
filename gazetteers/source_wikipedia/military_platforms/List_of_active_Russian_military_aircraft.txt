@@ -1,0 +1,75 @@
+Aero L-39 Albatros
+An-12
+An-124
+An-140
+An-148
+An-22
+An-24
+An-26
+An-30
+An-72
+Antonov
+AS350
+AS355
+Beriev
+A-50
+A-60
+Be-12
+Eurocopter
+Il-18
+Il-18
+Il-20/22
+Il-20/22
+Il-38
+Il-76
+Il-78
+Il-80/86/87
+Il-82
+Ilyushin
+Ka-27
+Ka-28
+Ka-29
+Ka-31
+Kamov
+Ka-226
+Ka-27
+Ka-50
+Ka-52
+Kazan Ansat
+Let L-410 Turbolet
+MiG-29K
+MiG-31
+Mikoyan
+Mikoyan MiG-29
+Mikoyan MiG-31
+Mikoyan MiG-33
+Mikoyan Project 1.44
+Mil Mi-2
+Mil Mi-24/35
+Mil Mi-26
+Mil Mi-28
+Mil Mi-8
+Mil Mi-8, Mi-8
+Orlan-10
+Su-24
+Su-25
+Su-27,
+su-30
+su-33
+Su-34
+Su-35
+Su-37
+Su-47
+Su-17
+Sukhoi
+Tu-134
+Tu-142
+Tu-154
+Tu-160
+Tu-204
+Tu-22M
+Tu-95
+Tupolev
+Yakovlev Pchela
+Yakovlev, Yak-130
+ZALA 421-08

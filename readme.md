@@ -9,6 +9,8 @@ Each line in a file represents a type of thing, and synonyms are represented on 
 
 The format of these text files are designed to be readily ingested by the [Balleen](https://github.com/dstl/baleen) Entity Extraction Text Processor. For more information see the related documentation.
 
+NOTE: These largely simple flat lists. Synonyms are not comprehensibly noted, and there is likely to be duplication. So, do not rely on the gazetteer file groupings of terms for classification, de-duplication and synonymical relationships.
+
 # Sources
 The gazetteers are built from a range of sources. See below.
 
