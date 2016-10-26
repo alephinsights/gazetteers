@@ -1,18 +1,14 @@
-Europeans, European
-Yazidis, Yazidi
-Sunni Kurds
-Sunni
-Shia
-Arab, Arabic
-Palistinian
-Israilie
 Afghan
+American
+Arab, Arabic
+Arabia
 Argentine
 Argentinian
 Australian
 Belgian
 Bolivian
 Brazilian
+British
 Cambodian
 Cameroonian
 Canadian
@@ -23,12 +19,14 @@ Costa Rican
 Cuban
 Danish (Dane)
 Dominican
+Dutch
 Ecuadorian
 Egyptian
-Salvador
 English
 Estonian
 Ethiopian
+Europeans, European
+Filipino, Tagalog
 Finnish
 French
 German
@@ -41,33 +39,37 @@ Indonesian
 Iranian,	Persian
 Irish
 Israeli
+Israilie
 Italian
 Japanese
 Jordanian
 Kenyan
+Korea	Korean
 Laotian
 Latvian
 Lithuanian
+Lybian, Libian
 Malaysian	Malay
 Mexican
 Moroccan
-Dutch
 New Zealander
 Nicaraguan
 Norwegian
+Palistinian
 Panamanian
 Paraguayan
 Peruvian
-Filipino, Tagalog
 Polish
 Portuguese
 Puerto Rican
 Romanian
 Russian
-Arabia
+Salvador
 Scottish
-Korea	Korean
+Shia
 Spanish
+Sunni
+Sunni Kurds
 Swedish
 Swiss	German
 Taiwanese
@@ -75,9 +77,8 @@ Tajik
 Thai
 Turkish
 Ukrainian
-British
-American
 Uruguayan
 Venezuelan
 Vietnamese
 Welsh
+Yazidis, Yazidi

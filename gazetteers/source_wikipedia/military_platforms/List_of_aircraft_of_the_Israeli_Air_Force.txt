@@ -1,5 +1,3 @@
-Cessna 182
-Cessna 185
 Aérospatiale Alouette II
 Aérospatiale Gazelle
 Aérospatiale Super Frelon
@@ -24,11 +22,13 @@ Boeing F-15I
 Boeing-Stearman PT-17 Kaydet
 Bristol Beaufighter
 Britten-Norman Islander
-C-54 Skymaster
+C-54 Skymaster, C-54
 C-97
 Canadair Sabre
 Cessna 172
 Cessna 180
+Cessna 182
+Cessna 185
 Cessna U206 Super Skywagon
 Consolidated PBY Catalina
 Consul
@@ -45,24 +45,23 @@ de Havilland Mosquito
 de Havilland Tiger Moth
 Dornier Do 27
 Dornier Do 28
-Douglas A-4 Skyhawk
-Douglas DC-3/C-47 Dakota
-Douglas DC-4
-Douglas DC-5
-Eurocopter HH-65 Dolphin
+A-4 Skyhawk, A-4 Skyhawk
+DC-3 Dakota, C-47 Dakota
+DC-4
+DC-5
+Eurocopter, HH-65 Dolphin
 Eurocopter Panther
-Fairchild Argus
 Fairchild Argus
 Fokker Instructor
 Fouga Magister
-General Dynamics F-16A/B
-General Dynamics F-16C/D
+General Dynamics F-16A/B, F-16A/B
+General Dynamics F-16C/D, F-16C/D
 Gloster Meteor
 Grob G 120
-Grumman E-2 Hawkeye
-Grumman G-44 Widgeon
-Grumman OV-1 Mohawk
-Hawker-Beechcraft T-6 Texan II
+Grumman E-2 Hawkeye, E-2 Hawkeye
+Grumman G-44 Widgeon, G-44 Widgeon
+Grumman OV-1 Mohawk, OV-1 Mohawk
+Hawker-Beechcraft T-6 Texan II, T-6 Texan
 Heliopolis Gomhouria
 Hiller 360
 Hughes 500
@@ -74,16 +73,16 @@ IAI Scout
 IAI Searcher
 IAI Searcher
 IAI Westwind/Seascan
-Lockheed C-130 Hercules
+Lockheed C-130 Hercules, C-130
 Lockheed Constellation
 Lockheed Hudson
 Lockheed Lodestar
-Lockheed Martin C-130J Super Hercules
-Lockheed Martin F-16I
-McDonnell Douglas AH-64A Apache
-McDonnell Douglas AH-64D Apache Longbow
-McDonnell Douglas F-15A/B/C/D
-McDonnell Douglas F-4 Phantom II
+Lockheed Martin C-130J Super Hercules, C-130J
+Lockheed Martin F-16I, F-16I
+AH-64A Apache
+AH-64D Apache Longbow
+F-15A/B/C/D
+F-4 Phantom II
 Mikoyan-Gurevich MiG-15
 Mikoyan-Gurevich MiG-17
 Mikoyan-Gurevich MiG-21
@@ -104,12 +103,12 @@ Pratincole
 Republic RC-3 Seabee
 RWD-13
 RWD-15
-Ryan BQM-34A Firebee
-Ryan BQM-34E/F Firebee II
+Ryan BQM-34A Firebee, BQM-34A Firebee
+Ryan BQM-34E/F Firebee II, BQM-34E/F Firebee II
 Sikorsky CH-53
 Sikorsky S-55
 Sikorsky S-58
-Sikorsky UH-60 Black Hawk
+Sikorsky UH-60 Black Hawk, Black Hawk, UH-60
 SOCATA Rallye
 SOCATA Trinidad
 Sud Aviation S.O. 4050 Vautour
@@ -120,5 +119,5 @@ Tadiran Mastiff
 Taylorcraft Auster AOP
 Taylorcraft Plus C
 Temco Buckaroo
-Vultee BT-13 Valiant
-Yakovlev Yak-11
+Vultee BT-13 Valiant, BT-13 Valiant
+Yakovlev Yak-11, Yak-11
