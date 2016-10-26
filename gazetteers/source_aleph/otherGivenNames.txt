@@ -16,6 +16,7 @@ Abu
 Ada
 Adah
 Adaline
+Adam
 Adan
 Adara
 Adda
@@ -1637,6 +1638,7 @@ Emily
 Emlyn
 Emlynn
 Emlynne
+Eman
 Emma
 Emmalee
 Emmaline
@@ -4223,6 +4225,7 @@ Ruthe
 Ruthi
 Ruthie
 Ruthy
+Ryan
 Ryann
 Rycca
 Saba
