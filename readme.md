@@ -1,5 +1,5 @@
 # Purpose
-A compilation of gazetteers for processing unstructured and semi structured text.
+A compilation of gazetteers for processing named entities in unstructured and semi structured text.
 
 These gazetteers are a work in progress and are subject to ongoing change, addition, deletion, improvement.
 
@@ -10,6 +10,8 @@ Each line in a file represents a type of thing, and synonyms are represented on 
 The format of these text files are designed to be readily ingested by the [Balleen](https://github.com/dstl/baleen) Entity Extraction Text Processor. For more information see the related documentation.
 
 NOTE: These largely simple flat lists. Synonyms are not comprehensibly noted, and there is likely to be duplication. So, do not rely on the gazetteer file groupings of terms for classification, de-duplication and synonymical relationships.
+
+Gazetteers are grouped in folders which indicate their source: See below. Within each source, the files are grouped by entity types described by the [Baleen Type System](https://github.com/dstl/baleen/wiki/Type-System)
 
 # Sources
 The gazetteers are built from a range of sources. See below.
