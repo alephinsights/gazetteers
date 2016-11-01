@@ -892,7 +892,6 @@ MBT-80
 MBT-2000
 MCV-80
 MDT David
-Medium
 Merkava
 MEX-1
 Mk 48
